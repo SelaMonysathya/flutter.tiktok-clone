@@ -1,0 +1,43 @@
+import '../models/feed.dart';
+
+List<Feed> feedData = [
+  Feed(
+    id: 1,
+    videoUrl: 'assets/videos/video_1.mp4',
+    title: 'mydudu_bubu',
+    description: '🐻🐼❤️',
+    song: 'original sound - mydudu_bubu',
+    songUrl: 'assets/images/image_1.jpeg',
+    profileUrl: 'assets/images/image_1.jpeg',
+    like: '1,200',
+    comment: '150',
+    bookmark: '300',
+    share: '500',
+  ),
+  Feed(
+    id: 2,
+    videoUrl: 'assets/videos/video_2.mp4',
+    title: 'bubuuuududuuu',
+    description: 'Dudu do you love Bubu?🔫🥹❤️',
+    song: 'Originalton - Bubu & Dudu❤️',
+    songUrl: 'assets/images/image_2.jpeg',
+    profileUrl: 'assets/images/image_2.jpeg',
+    like: '151.8K',
+    comment: '1617',
+    bookmark: '6802',
+    share: '1764',
+  ),
+  Feed(
+    id: 3,
+    videoUrl: 'assets/videos/video_3.mp4',
+    title: 'dudububu_1',
+    description: '🐻🐼 𝓓𝓾𝓭𝓾 𝓲𝓼 𝓼𝓵𝓮𝓮𝓹𝓲𝓷𝓰 😴😴😴',
+    song: 'original sound - mydudu_bubu',
+    songUrl: 'assets/images/image_3.jpeg',
+    profileUrl: 'assets/images/image_3.jpeg',
+    like: '75K',
+    comment: '590',
+    bookmark: '11.4k',
+    share: '8524',
+  ),
+];

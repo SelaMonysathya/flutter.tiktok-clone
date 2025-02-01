@@ -1,16 +1,38 @@
-# tiktok_clone
+# 📱 TikTok Clone App UI
 
-A new Flutter project.
+![Mockup](https://github.com/user-attachments/assets/f4c588b2-2322-4aed-9af1-82a4ea75a1c8)
 
-## Getting Started
+A modern and responsive TikTok Clone UI built using Flutter. This project replicates key elements of TikTok’s interface, providing a seamless and engaging user experience.
 
-This project is a starting point for a Flutter application.
+## 📹 Live Demo
+Watch the full tutorial on YouTube: [Click here](https://bit.ly/3yvUL2t)
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
+- Flutter version `3.24.3`
+- Dart version `3.5.3`
+- Any IDE (VS Code, Android Studio, etc.)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/SelaMonysathya/flutter.tiktok-clone
+   cd tiktok-clone
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the app:**:
+   ```bash
+   flutter run
+   ```
+
+## 🔗 Connect with me:
+- 📺 Youtube: [Click here](https://bit.ly/3u1KPIU)
+- 👤 Facebook: [Click here](https://bit.ly/3rE7Fqj)
+- 📷 Instagram: [Click here](https://bit.ly/3W5uj9f)

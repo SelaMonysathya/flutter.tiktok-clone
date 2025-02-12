@@ -33,6 +33,6 @@ Watch the full tutorial on YouTube: [Click here](https://www.youtube.com/watch?v
    ```
 
 ## 🔗 Connect with me:
-- 📺 Youtube: [Click here](https://bit.ly/3u1KPIU)
-- 👤 Facebook: [Click here](https://bit.ly/3rE7Fqj)
-- 📷 Instagram: [Click here](https://bit.ly/3W5uj9f)
+- 📺 Youtube: [Click here](https://www.youtube.com/@selamonysathya2877)
+- 👤 Facebook: [Click here](https://web.facebook.com/sela.monysathya)
+- 📷 Instagram: [Click here](https://www.instagram.com/sela_monysathya)

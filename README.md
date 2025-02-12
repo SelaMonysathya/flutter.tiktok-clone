@@ -5,7 +5,7 @@
 A modern and responsive TikTok Clone UI built using Flutter. This project replicates key elements of TikTok’s interface, providing a seamless and engaging user experience.
 
 ## 📹 Live Demo
-Watch the full tutorial on YouTube: [Click here](https://bit.ly/3yvUL2t)
+Watch the full tutorial on YouTube: [Click here](https://www.youtube.com/watch?v=oCvjdGJi-pM)
 
 ## 🚀 Getting Started
 
